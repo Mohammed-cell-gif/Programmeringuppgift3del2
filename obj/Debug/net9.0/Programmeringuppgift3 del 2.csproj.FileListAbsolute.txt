@@ -1,0 +1,14 @@
+C:\GitHub\Programmeringuppgift3del2\bin\Debug\net9.0\Programmeringuppgift3 del 2.exe
+C:\GitHub\Programmeringuppgift3del2\bin\Debug\net9.0\Programmeringuppgift3 del 2.deps.json
+C:\GitHub\Programmeringuppgift3del2\bin\Debug\net9.0\Programmeringuppgift3 del 2.runtimeconfig.json
+C:\GitHub\Programmeringuppgift3del2\bin\Debug\net9.0\Programmeringuppgift3 del 2.dll
+C:\GitHub\Programmeringuppgift3del2\bin\Debug\net9.0\Programmeringuppgift3 del 2.pdb
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.AssemblyInfoInputs.cache
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.AssemblyInfo.cs
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.csproj.CoreCompileInputs.cache
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.dll
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\refint\Programmeringuppgift3 del 2.dll
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.pdb
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.genruntimeconfig.cache
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\ref\Programmeringuppgift3 del 2.dll
