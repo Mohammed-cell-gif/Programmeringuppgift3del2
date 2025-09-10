@@ -12,3 +12,4 @@ C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\refint\Programmeringuppgift
 C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.pdb
 C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.genruntimeconfig.cache
 C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\ref\Programmeringuppgift3 del 2.dll
+C:\GitHub\Programmeringuppgift3del2\obj\Debug\net9.0\Programmeringuppgift3 del 2.sourcelink.json
