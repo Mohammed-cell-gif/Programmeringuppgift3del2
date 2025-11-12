@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\GitHub\\Programmeringuppgift3del2\\Programmeringuppgift3 del 2.csproj",
+      "projectUniqueName": "C:\\GitHub\\Programmeringuppgift3del2\\Programmeringuppgift3 del 2.csproj",
       "projectName": "Programmeringuppgift3 del 2",
-      "projectPath": "c:\\GitHub\\Programmeringuppgift3del2\\Programmeringuppgift3 del 2.csproj",
+      "projectPath": "C:\\GitHub\\Programmeringuppgift3del2\\Programmeringuppgift3 del 2.csproj",
       "packagesPath": "C:\\Users\\moal08008\\.nuget\\packages\\",
-      "outputPath": "c:\\GitHub\\Programmeringuppgift3del2\\obj\\",
+      "outputPath": "C:\\GitHub\\Programmeringuppgift3del2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moal08008\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
